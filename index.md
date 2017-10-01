@@ -1,5 +1,5 @@
 ### PHP
-Kesällä 2017 opettelin PHP-ohjelmoinnin perusteita ja innostuin Ohjelmointiputkan PHP-haasteesta. Kesän aikana ratkoin tehtävistä 71/100. PHP-haasteesta voi lukea lisää täältä. Tässä pari esimerkkiä ratkaisuistani:
+Kesällä 2017 opettelin PHP-ohjelmoinnin perusteita ja innostuin Ohjelmointiputkan PHP-haasteesta. Kesän aikana ratkoin tehtävistä 71/100. PHP-haasteesta voi lukea lisää [täältä](https://www.ohjelmointiputka.net/phph/tietoa.php). Tässä pari esimerkkiä ratkaisuistani:
 
 * [Neliön tulostus kirjaimilla](/php/kivikuvio.html)
 * [Kirjainten määrän laskeminen](/php/kirjaintenmaara.html)
